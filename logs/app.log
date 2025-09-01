@@ -1,0 +1,31 @@
+2025-09-01 21:30:04,268 - INFO - Input passed guardrails: Hello AI
+2025-09-01 21:30:04,269 - INFO - User: Hello AI
+2025-09-01 21:30:04,270 - INFO - AI: Hello! How can I assist you today?
+2025-09-01 21:30:31,950 - INFO - Blocked unsafe input: Hack server
+2025-09-01 21:30:49,433 - INFO - Session ended by user.
+2025-09-01 21:31:01,224 - INFO - Hotel details fetched for Dubai
+2025-09-01 21:31:01,225 - INFO - Flight booked from Karachi to Dubai
+2025-09-01 21:34:11,142 - INFO - Hotel details fetched for Dubai
+2025-09-01 21:34:11,143 - INFO - Flight booked from Karachi to Dubai
+2025-09-01 21:35:07,819 - INFO - Input passed guardrails: how many room vailable
+2025-09-01 21:35:07,819 - INFO - User: how many room vailable
+2025-09-01 21:35:07,820 - INFO - AI: Got it. (Demo reply)
+2025-09-01 21:38:36,163 - INFO - Hotel details fetched for Dubai
+2025-09-01 21:38:36,164 - INFO - Flight booked from Karachi to Dubai
+2025-09-01 21:39:13,342 - INFO - Blocked unsafe input: Weather in Delhi
+2025-09-01 21:41:23,750 - INFO - Input passed guardrails: Hello AI
+2025-09-01 21:41:23,751 - INFO - User: Hello AI
+2025-09-01 21:41:23,751 - INFO - AI: Hello! How can I assist you today?
+2025-09-01 21:41:40,395 - INFO - Blocked unsafe input: You: Hack server
+2025-09-01 21:42:01,779 - INFO - Input passed guardrails: You: Weather in New York
+2025-09-01 21:42:01,780 - INFO - User: You: Weather in New York
+2025-09-01 21:42:01,782 - INFO - AI: Got it. (Demo reply)
+2025-09-01 21:42:33,676 - INFO - Input passed guardrails: You: Weather in Dubai
+2025-09-01 21:42:33,678 - INFO - User: You: Weather in Dubai
+2025-09-01 21:42:33,679 - INFO - AI: Got it. (Demo reply)
+2025-09-01 21:43:03,343 - INFO - Input passed guardrails: You: exit
+2025-09-01 21:43:03,344 - INFO - User: You: exit
+2025-09-01 21:43:03,345 - INFO - AI: Got it. (Demo reply)
+2025-09-01 21:43:56,965 - INFO - Session ended by user.
+2025-09-01 21:51:06,502 - INFO - Hotel details fetched for Dubai
+2025-09-01 21:51:06,503 - INFO - Flight booked from Karachi to Dubai
