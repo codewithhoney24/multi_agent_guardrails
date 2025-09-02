@@ -29,3 +29,30 @@
 2025-09-01 21:43:56,965 - INFO - Session ended by user.
 2025-09-01 21:51:06,502 - INFO - Hotel details fetched for Dubai
 2025-09-01 21:51:06,503 - INFO - Flight booked from Karachi to Dubai
+2025-09-02 13:44:05,550 - INFO - Input passed guardrails: what is earth
+2025-09-02 13:44:05,557 - INFO - User: what is earth
+2025-09-02 13:44:05,557 - INFO - AI: Got it. (Demo reply)
+2025-09-02 13:44:38,694 - INFO - Input passed guardrails: hello AI
+2025-09-02 13:44:38,695 - INFO - User: hello AI
+2025-09-02 13:44:38,695 - INFO - AI: Hello! How can I assist you today?
+2025-09-02 13:52:59,456 - INFO - Input passed guardrails: hello AI
+2025-09-02 13:52:59,456 - INFO - User: hello AI
+2025-09-02 13:52:59,457 - INFO - AI: Hello! How can I assist you today?
+2025-09-02 14:33:24,979 - INFO - Input passed guardrails: hello AI
+2025-09-02 14:33:24,985 - INFO - User: hello AI
+2025-09-02 14:33:24,986 - INFO - AI: Hello! How can I assist you today?
+2025-09-02 14:33:32,689 - INFO - Blocked unsafe input: SERVER HACK
+2025-09-02 14:33:40,696 - INFO - Session ended by user.
+2025-09-02 14:33:44,991 - INFO - Hotel details fetched for Dubai
+2025-09-02 14:33:44,992 - INFO - Flight booked from Karachi to Dubai
+2025-09-02 14:33:50,716 - INFO - Hotel details fetched for Dubai
+2025-09-02 14:33:50,717 - INFO - Flight booked from Karachi to Dubai
+2025-09-02 14:33:59,037 - INFO - Input passed guardrails: 2
+2025-09-02 14:33:59,038 - INFO - User: 2
+2025-09-02 14:33:59,038 - INFO - AI: Got it. (Demo reply)
+2025-09-02 15:10:47,446 - INFO - Input passed guardrails: how are you
+2025-09-02 15:10:47,447 - INFO - User: how are you
+2025-09-02 15:10:47,448 - INFO - AI: Got it. (Demo reply)
+2025-09-02 15:11:02,829 - INFO - Input passed guardrails: hello AI
+2025-09-02 15:11:02,829 - INFO - User: hello AI
+2025-09-02 15:11:02,830 - INFO - AI: Hello! How can I assist you today?
